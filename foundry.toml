@@ -3,6 +3,5 @@ src = "src"
 out = "out"
 libs = ["node_modules"]
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
 [rpc_endpoints]
-mainnet = "https://eth.llamarpc.com"
+hoodi = "https://rpc.ankr.com/eth_hoodi/784e97dc6992f5011b0411eb9fae04af79e8ff88f49b98ef809c24aa59713abd"
